@@ -19,7 +19,7 @@ final class Constantes
 
 
     public static function repertoireRacine() {
-        return realpath(__DIR__ . '/LP2020-main/');
+        return realpath(__DIR__ . '/../');
     }
 
     public static function repertoireNoyau() {

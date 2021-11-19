@@ -2,11 +2,14 @@
 <html lang="fr">
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-        <title>My sweet MVC</title>
+        <link href="../Css/style.css" rel="stylesheet">
+        <!-- Lien Boostrap -->
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+        <title>Liste eleve</title>
     </head>
     <body>
         <?php Vue::montrer('standard/entete'); ?>
-        <?php echo $A_vue['body'] ?>
+        <?php echo $A_vue['body'];?>
         <?php Vue::montrer('standard/pied'); ?>
     </body>
 </html>

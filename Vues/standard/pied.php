@@ -1,1 +1,1 @@
-<footer>Pied</footer>
+<footer class="p-3 text-center">Créateur : FERRALI Mario</footer>
