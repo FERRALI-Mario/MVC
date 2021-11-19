@@ -14,3 +14,5 @@ Si vous voulez acceder à la page permettant la selection de la liste aller sur 
 - Selection un nombre de personne par groupe
 - Envoyer le formulaire
 - Maintenant vous voyez la liste des élèves (url : mvc/Eleve/tri)
+
+Lien GitHub : https://github.com/FERRALI-Mario/MVC
